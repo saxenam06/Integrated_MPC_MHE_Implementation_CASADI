@@ -8,7 +8,7 @@ We have the below scenario for our first control objective i.e. Stabilization at
 
 ![image](https://user-images.githubusercontent.com/83720464/130610808-939cd6e3-b6a6-4d00-8c72-c633b00f6665.png)
 
-![image](https://user-images.githubusercontent.com/83720464/130616963-77e74a46-0d26-4143-8e4d-9d07b46abb64.png)
+![image](https://user-images.githubusercontent.com/83720464/130617134-adbddd22-4371-4e3d-976e-36fedf52b043.png)
 
 https://user-images.githubusercontent.com/83720464/130612103-a9ec6382-9521-4856-a3d3-279c908beff8.mp4
 
