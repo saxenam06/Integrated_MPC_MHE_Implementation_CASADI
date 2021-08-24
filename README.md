@@ -10,6 +10,8 @@ We have the below scenario for our first control objective i.e. Stabilization at
 
 https://user-images.githubusercontent.com/83720464/130612103-a9ec6382-9521-4856-a3d3-279c908beff8.mp4
 
+REFERENCES
+1.	M.W. Mehrez Optimization based solutions for control and State estimation in Dynamical systems (Implementation to Mobile Robots): A Workshop
 
 
 
