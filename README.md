@@ -10,7 +10,13 @@ We have the below scenario for our first control objective i.e. Stabilization at
 
 ![image](https://user-images.githubusercontent.com/83720464/130617431-4a5e7b33-408e-41f7-b6d8-e2ffcbf6e97a.png)
 
+# Goal Stabilisation
+
 https://user-images.githubusercontent.com/83720464/130612103-a9ec6382-9521-4856-a3d3-279c908beff8.mp4
+
+# Trajectory Tracking
+
+
 
 # REFERENCES
 1.	M.W. Mehrez Optimization based solutions for control and State estimation in Dynamical systems (Implementation to Mobile Robots): A Workshop
