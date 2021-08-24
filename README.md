@@ -1,6 +1,6 @@
-# Integrated Model predictive control and Moving Horizon estimation for Stabilization at Goal location and Trajectory Tracking
+# Integrated Model predictive control and Moving Horizon estimation for Stabilization at Goal location and Trajectory Tracking using CASADI
 
-In this repository, I demonstrate how to “Integrate Model predictive control and Moving Horizon estimation for Mobile robots” to achieve the two control objectives: Stabilization at Goal location.
+In this repository, I demonstrate how to “Integrate Model predictive control and Moving Horizon estimation for Mobile robots” to achieve the control objective of Stabilization at Goal location using CASADI.
 My codes are further advanced implementation of the codes already explained in the workshop of M.W. Mehrez [1] because of following two reasons 1. I consider that both the estimates of current states and the applied control inputs are noisy which were not considered together in the examples of the workshop 2. I integrate together the Estimation and the Control problem which were addressed as two separate problems in the workshop. In fact it was also recommended in the workshop that “Combining MHE with MPC. A very good Exercise!” as the next step. I am grateful to M.W. Mehrez’s workshop which helped me to get started in the domain of solving Nonlinear Model predictive control using CASADI. 
 
 # PROBLEM FORMULATION for Stabilization at Goal Location:
